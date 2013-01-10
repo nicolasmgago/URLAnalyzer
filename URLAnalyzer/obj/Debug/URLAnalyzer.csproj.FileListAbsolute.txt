@@ -1,0 +1,5 @@
+C:\Proyectos\URLAnalyzer\URLAnalyzer\bin\URLAnalyzer.dll
+C:\Proyectos\URLAnalyzer\URLAnalyzer\bin\URLAnalyzer.pdb
+C:\Proyectos\URLAnalyzer\URLAnalyzer\obj\Debug\URLAnalyzer.csprojResolveAssemblyReference.cache
+C:\Proyectos\URLAnalyzer\URLAnalyzer\obj\Debug\URLAnalyzer.dll
+C:\Proyectos\URLAnalyzer\URLAnalyzer\obj\Debug\URLAnalyzer.pdb
